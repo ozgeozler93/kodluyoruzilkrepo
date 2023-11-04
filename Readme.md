@@ -22,7 +22,7 @@ code
 
 ## Contributing
 
-#### Pull requestler kabul edilir. Buyuk degisiklikler icin, lutfen once neyi degistirmek istediginizi tartismak icin kodu aciniz.
+##### Pull requestler kabul edilir. Buyuk degisiklikler icin, lutfen once neyi degistirmek istediginizi tartismak icin kodu aciniz.
 
 
 ## License
